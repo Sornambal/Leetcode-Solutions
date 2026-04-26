@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [3099-harshad-number](https://github.com/Sornambal/Leetcode-Solutions/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
