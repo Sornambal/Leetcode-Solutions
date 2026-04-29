@@ -20,11 +20,13 @@
 | [0412-fizz-buzz](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sornambal/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sornambal/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
