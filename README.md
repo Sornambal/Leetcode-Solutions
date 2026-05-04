@@ -10,6 +10,7 @@
 | [0412-fizz-buzz](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/Sornambal/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Sornambal/Leetcode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sornambal/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2843-count-symmetric-integers](https://github.com/Sornambal/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/Sornambal/Leetcode-Solutions/tree/master/3099-harshad-number) |
